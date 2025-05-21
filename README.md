@@ -8,7 +8,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, design e inova√ß√
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical" width="400"/>
 </p>
 
-![Snake animation](https://github.com/devGabrielAlencar/devGabrielAlencar/blob/output/github-contribution-grid-snake.sbg)
+![Snake animation](https://raw.githubusercontent.com/devGabrielAlencar/devGabrielAlencar/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-stats.vercel.app/api/pin/?username=devGabrielAlencar&repo=devGabrielAlencar7&theme=react)](https://github.com/devGabrielAlencar)
 
