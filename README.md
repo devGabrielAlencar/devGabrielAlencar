@@ -8,10 +8,6 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, design e inovaç�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical" width="400"/>
 </p>
 
-
-![Snack Workflow](https://github.com/devGabrielAlencar/devGabrielAlencar/actions/workflows/snack.yml/badge.svg?style=for-the-badge)
-<hr>
-
 ### 🚀 Sobre mim
 
 - 👨‍💻 Atualmente estudando e aprimorando minhas habilidades em desenvolvimento front-end e back-end.  
