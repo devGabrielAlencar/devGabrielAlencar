@@ -3,8 +3,8 @@
 Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, design e inovação. Estou em constante aprendizado e gosto de transformar ideias em soluções práticas através da programação.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devGabrielAlencar&show_icons=true&theme=radical&count_private=true"  height = "150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical"  height = "150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devGabrielAlencar&show_icons=true&theme=radical&count_private=true" height="140em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical" height="140em" />
 </div>
 
 <hr>
