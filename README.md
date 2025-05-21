@@ -8,10 +8,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, design e inovaç�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/devGabrielAlencar/devGabrielAlencar/actions/workflows/snack.yml/badge.svg" alt="Snack Workflow Status"/>
-</p>
-
+![Snack Workflow](https://github.com/devGabrielAlencar/devGabrielAlencar/actions/workflows/snack.yml/badge.svg)
 <hr>
 
 ### 🚀 Sobre mim
