@@ -2,6 +2,11 @@
 
 Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, design e inovação. Estou em constante aprendizado e gosto de transformar ideias em soluções práticas através da programação.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devGabrielAlencar&show_icons=true&theme=radical&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGabrielAlencar&layout=compact&theme=radical" width="45%"/>
+</div>
+
 ### 🚀 Sobre mim
 
 - 👨‍💻 Atualmente estudando e aprimorando minhas habilidades em desenvolvimento front-end e back-end.
